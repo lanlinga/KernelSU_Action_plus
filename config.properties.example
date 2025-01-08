@@ -1,6 +1,6 @@
-KERNEL_SOURCE=https://github.com/LineageOS/android_kernel_google_wahoo.git
-KERNEL_SOURCE_BRANCH=lineage-21
-KERNEL_CONFIG=wahoo_defconfig
+KERNEL_SOURCE=https://github.com/MiCode/Xiaomi_Kernel_OpenSource.git
+KERNEL_SOURCE_BRANCH=cmi-r-oss
+KERNEL_CONFIG=vendor/umi_user_defconfig
 KERNEL_IMAGE_NAME=Image.gz-dtb
 ARCH=arm64
 
